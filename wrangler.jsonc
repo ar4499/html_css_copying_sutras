@@ -1,0 +1,11 @@
+{
+  // Cloudflare Workers Static Assets (静的アセットのみ。Worker スクリプトは持たない)
+  "name": "html-css-copying-sutras",
+  "compatibility_date": "2026-07-25",
+  "assets": {
+    "directory": "."
+  },
+  "observability": {
+    "enabled": true
+  }
+}

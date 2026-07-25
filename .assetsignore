@@ -1,0 +1,18 @@
+# 公開してはいけない/公開する必要のないものを静的アセットのアップロードから除外する。
+.git/
+.github/
+.wrangler/
+node_modules/
+.env
+.env.*
+.dev.vars
+.dev.vars.*
+.gitignore
+.assetsignore
+wrangler.jsonc
+wrangler.toml
+package.json
+package-lock.json
+README.md
+vercel.json
+.vercel/
